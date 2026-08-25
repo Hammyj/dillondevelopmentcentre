@@ -4,8 +4,8 @@ A simple single-page brochure website for a football coaching business. It is bu
 
 ## Edit These First
 
-- Business name: replace `Your Coaching Name` in `index.html`.
-- Logo: replace the text mark in the header, or add your logo to `assets/images/` and update the header markup.
+- Business name: update `Dillon Development Centre` in `index.html` if the final trading name changes.
+- Logo: the current logo is saved at `assets/images/ddc-logo.png`. Replace this file with a higher-resolution version when available.
 - Contact details: update phone, email, location, and Instagram handle in the contact section.
 - Privacy policy: add `privacy-policy.html` or change the footer link to the final policy URL.
 - Photos: replace `assets/images/football-coaching-session.png` with real coaching photos and update the gallery image paths.
@@ -25,6 +25,19 @@ For day one, the current gallery keeps the site fast and dependable.
 ## Future Updates
 
 For a non-technical owner, the best upgrade path is usually a lightweight Git-backed CMS such as Decap CMS, CloudCannon, or TinaCMS. That would let your friend edit events or announcements through a browser while the site still deploys as static files.
+
+## Brand Palette
+
+The current palette is based on the supplied DDC logo, adjusted for readable contrast:
+
+- Charcoal: `#202221` / `#242524`
+- Warm cream: `#f2edba`
+- Strong cream accent: `#e5d968`
+- Pale blue-grey: `#c6d4d6`
+- Muted pitch green: `#315542`
+- Soft page background: `#f6f3e8`
+
+The cream is used sparingly for accents and buttons, with charcoal used for high-contrast text and panels.
 
 ## Cloudflare Pages
 
